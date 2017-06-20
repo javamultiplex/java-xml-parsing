@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+<Employee id="101">
+	<name>raja</name>
+	<age>33</age>
+	<salary>230000</salary>
+	<role>painter</role>
+</Employee>
+</Employees>
