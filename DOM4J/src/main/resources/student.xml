@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class> 
+  <student rollnumber="2"> 
+    <firstname>raman</firstname>  
+    <lastname>ragahva</lastname>  
+    <nickname>ram</nickname>  
+    <marks>33</marks> 
+  </student> 
+</class>
